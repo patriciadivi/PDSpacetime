@@ -1,6 +1,7 @@
 {
   "conventionalCommits.scopes": [
     "DEPENDENCIES",
-    "SETTINGS"
+    "SETTINGS",
+    "DEVELOPMENT"
   ]
 }
